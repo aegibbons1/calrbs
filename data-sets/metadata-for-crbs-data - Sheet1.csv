@@ -1,0 +1,12 @@
+dataset,original-name,creator,website,creator-edits,my-edits,date-of-creation,date-of-access,crbs-use
+internet-users-per-100-people,,Knoema; World Bank: Education Statistics,https://knoema.com/WBEDS2017Jun/world-bank-education-statistics,,downloaded from Tableau Public workbook; data up to 2015,,7/1/2018,data visualization with Tableau
+bl-flickr-images-book-subset-edited.csv,BL-Flickr-Images-Book-subset,"Stephens, Owen",http://www.meanboyfriend.com/overdue_ideas/wp-content/uploads/2015/02/BL-Flickr-Images-Book-subset.csv,,reduced the number of rows,,7/1/2018,data cleaning in OpenRefine
+sotu-addresses,,"Borevitz, Brad",http://stateoftheunion.onetwothree.net/texts/index.html,,,,,
+holmes-short-stories,,"The Complete Sherlock Holmes, ASCII",https://sherlock-holm.es/ascii/,,removed headers and footers,,7/1/2018,"data exploration with Voyant, AntConc"
+first-folio-folger-txt,,Folger Digital Texts,https://www.folgerdigitaltexts.org/download/,,,,,
+amstudiestxt,,JSTOR DFR,https://www.jstor.org/dfr/,,,,7/1/2018,topic modeling with Topic Modeling Tool
+slavictxt,,JSTOR DFR,https://www.jstor.org/dfr/,,,,7/1/2018,topic modeling with Topic Modeling Tool
+dickens,,"DeRose, Catherine",,,removed paratext; divided in 1000 word chunks,,7/1/2015,topic modeling with Topic Modeling Tool
+merchant-of-venice.xml,,Folger Digital Texts,https://www.folgerdigitaltexts.org/download/,,,,7/1/2018,named entity recognition with Stanford NER
+rj-char-scene-cleaned.csv,,"DeRose, Catherine",,,cleaned xml file from Folger Digital Texts; extracted char and scene information,,7/1/2018,network analysis with Gephi
+tate-artists-mullen-cleaned.csv,Tate Collection,"Mullen, Lincoln",https://lincolnmullen.com/projects/spatial-workshop/resources.html,,removed special characters that weren't UTF-8,,7/1/2018,mapping in Carto
